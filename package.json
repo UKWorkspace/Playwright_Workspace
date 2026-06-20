@@ -1,0 +1,24 @@
+{
+  "name": "uk_playwright_js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:login": "playwright test tests/login.spec.js",
+    "test:ui": "playwright test --ui",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "report": "playwright show-report"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0",
+    "chalk": "^5.6.2",
+    "dotenv": "^17.4.2",
+    "fast-glob": "^3.3.3"
+  }
+}

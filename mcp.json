@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "playwright-assistant": {
+      "command": "node",
+      "args": ["${workspaceFolder}/mcp-server.js"],
+      "env": {
+        "PLAYWRIGHT_PROJECT_ROOT": "${workspaceFolder}",
+        "NODE_PATH": "${workspaceFolder}/node_modules"
+      }
+    }
+  }
+}

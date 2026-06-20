@@ -1,0 +1,6 @@
+[     133ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://rahulshettyacademy.com/loginpagePractise/:0
+[     356ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://ad.doubleclick.net/ccm/s/collect?auid=1990328405.1780586402&gtm=45be6630h2v9237732300z89237596770za20gzb9237596770zd9237596770xec:0
+[    8613ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://rahulshettyacademy.com/loginpagePractise/:0
+[   47144ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://rahulshettyacademy.com/loginpagePractise/:0
+[  147447ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://rahulshettyacademy.com/loginpagePractise/:0
+[  147665ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://ad.doubleclick.net/ccm/s/collect?auid=1990328405.1780586402&gtm=45be6630h2v9237732300z89237596770za20gzb9237596770zd9237596770xec:0

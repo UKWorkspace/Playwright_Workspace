@@ -1,0 +1,18 @@
+{
+  "github.copilot.advanced": {
+    "debug.overrideChatModel": false,
+    "debug.testStateForChat": ""
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "mcpServers": {
+    "playwright-assistant": {
+      "command": "node",
+      "args": ["${workspaceFolder}/mcp-server.js"],
+      "env": {
+        "PLAYWRIGHT_PROJECT_ROOT": "${workspaceFolder}"
+      }
+    }
+  }
+}
